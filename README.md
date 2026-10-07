@@ -16,7 +16,7 @@
 
     - Identified 23% higher sales in Q4 across all years (2019-2021).
     - Found Product Group "Yeasts" consistently underperformed by 15% against targets.
-    - Recommended reallocation of sales resources that improved efficiency by 18%.
+    - Identified sales-resource reallocation opportunities based on product and regional performance analysis.
     - "Food" category represented 87% of products but only 62% of revenue.
     - Recommended discontinuation of 15 low-margin SKUs, freeing resources for high-growth "Drink" category.
     - Identified opportunity to expand "Coffee in Capsules" line based on market trends
